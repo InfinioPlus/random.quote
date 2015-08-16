@@ -1,0 +1,18 @@
+body{
+	background: url('http://i.imgur.com/Chl8GSo.jpg');
+}
+h1{
+	font-size: 50px;
+	font-family: 'Indie Flower', cursive;
+}
+.pan{
+	padding-top: 150px;
+}
+@media(max-width: 500px){
+	h1{
+		font-size: 35px; 
+	}
+	.pan{
+		padding-top: 40px;
+	}
+}
